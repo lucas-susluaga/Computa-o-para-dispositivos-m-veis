@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppCartao</string>
+
+    <string name="etTituloHint">Informe o nome no cartão...</string>
+    <string name="etLimiteHint">Qual o seu limite?</string>
+    <string name="etBancoHint">Informe seu banco...</string>
+    <string name="btnAdicionarHint">Adicionar</string>
+    <string name="btnSalvarHint">Salvar</string>
+
+
+
+
+    <string-array name="bandeiras">
+        <item>Selecione a bandeira</item>
+        <item>Mastercard</item>
+        <item>Visa</item>
+        <item>Elo</item>
+        <item>Hipercard</item>
+        <item>American Express</item>
+    </string-array>
+</resources>

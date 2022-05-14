@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shape
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:shape="rectangle"
+    android:padding="10dp"
+    />
+    <solid android:color="@color/arredondar"/>
+
+    <corners
+        android:bottomLeftRadius="100dp"
+        android:bottomRightRadius="200dp"
+        android:topLeftRadius="200dp"
+        android:topRightRadius="100dp"
+        />
+
+</shape>

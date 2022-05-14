@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppCartao</string>
+
+    <string name="etTituloHint">Insert your name..</string>
+    <string name="etLimiteHint">Digit your limit</string>
+    <string name="etBancoHint">What is your bank account?</string>
+    <string name="btnAdicionarHint">+</string>
+    <string name="btnSalvarHint">Save</string>
+
+
+
+
+
+
+    <string-array name="bandeiras">
+        <item>Select your flag...</item>
+        <item>Mastercard</item>
+        <item>Visa</item>
+        <item>Elo</item>
+        <item>Hipercard</item>
+        <item>American Express</item>
+    </string-array>
+</resources>
